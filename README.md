@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @aysaltuntas
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me altuntasayss@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-aysaltuntas/aysaltuntas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm Ayşe Altuntaş. I'm a 10th-grade student at Bheçeşehir Private Anatolian High School in Mersin.
+My hobbies include acquiring new experiences, playing basketball, and practicing combat sports, which I'm licensed in. 
+I also want to have fun learning software, and I'm aware of the benefits it will bring to my life.
